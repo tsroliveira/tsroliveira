@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Solutions Architect with 15+ years of experience in Information Systems, data center infrastructure, and software development. Driven by a passion for technology, I aim to create meaningful change through the innovative solutions I develop.
+
+#
+<div>
+<a href="https://www.linkedin.com/in/thiago-sr-oliveira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href = "mailto:thiago-oliveira@live.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+</div>
+
 <!--
 **tsroliveira/tsroliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
