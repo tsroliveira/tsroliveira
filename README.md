@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Solutions Architect with 15+ years of experience in Information Systems, data center infrastructure, and software development. Driven by a passion for technology, I aim to create meaningful change through the innovative solutions I develop.
-
+Solutions Architect | 15+ years shipping mission-critical systems. Java, PHP, React, Genesys, Nice CX, AWS Connect. Omnichannel platforms. MBA AI & Analytics (FGV).
 <div>
+  
 <a href="https://www.linkedin.com/in/thiago-sr-oliveira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
